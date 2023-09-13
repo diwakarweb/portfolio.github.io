@@ -848,6 +848,7 @@ form .button-area {
     padding: 2rem;
     position: relative;
     top: 45px;
+    margin:15px;
   }
 }
 /* common media queries ends*/
