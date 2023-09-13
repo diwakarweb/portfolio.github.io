@@ -461,7 +461,7 @@ header .navbar ul li a:hover {
 }
 .container h1{
   position: absolute;
-  top: 0px;
+  top: -76px;
   font-size: 54px;
 }
 
@@ -846,6 +846,8 @@ form .button-area {
   }
   section {
     padding: 2rem;
+    position: relative;
+    top: 45px;
   }
 }
 /* common media queries ends*/
