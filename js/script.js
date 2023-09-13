@@ -1,4 +1,10 @@
 
+//for menu click/
+$('#menu').click(function () {
+        $(this).toggleClass('fa-times');
+        $('.navbar').toggleClass('nav-toggle');
+    });
+
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
